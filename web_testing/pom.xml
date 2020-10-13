@@ -12,7 +12,7 @@
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<selenium.version>3.14.0</selenium.version>
 		<hamcrest.version>2.0.0.0</hamcrest.version>
-		<junit.version>4.12</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<google.gson.version>2.8.5</google.gson.version>
 		<rest.assured.version>3.0.7</rest.assured.version>
 		<junit.params.version>1.1.1</junit.params.version>
